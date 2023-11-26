@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=BhmIx9zCH_4&list=PLseRtgv42_NcXGeyZDnWPj3Nqfyq9y
 
 Public link to the slide (Anyone on the internet can view without login):
 
-https://docs.google.com/presentation/d/13iat1hEBjAa8lL3vVHxXHqW-XztDybwuh7pmblAwoHw/edit#slide=id.g295235cd5ac_2_34
+https://docs.google.com/presentation/d/1gSXCmIYE9sitvYR1oTB83-TINb-z_rS7rdFQeq-ay1I/edit?usp=sharing
 
 Paper title:
 
