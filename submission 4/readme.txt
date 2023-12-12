@@ -9,7 +9,7 @@ Public link to the slide (Anyone on the internet can view without login):
 
 
 Project title:
-"EfficientNet-Based Handwriting Recognition: A Deep Learning Approach for Improved Accuracy and Speed"
+"ConvRecog: Convolutional Recurrent Neural Network for Handwritten Text Recognition"
 
 Group Number:
 4
